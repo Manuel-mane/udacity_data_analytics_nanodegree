@@ -1,4 +1,4 @@
-# Wrangle and Analyze Data
+# Wrangling and Analyzing WeRateDogs twitter Data
 
 ## Project Details
 
