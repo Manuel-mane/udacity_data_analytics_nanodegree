@@ -1,0 +1,8 @@
+Once you're ready to finish your presentation, check your output by using nbconvert to export the notebook and set up a server for the 
+slides. From the terminal or command line, use the following expression:
+
+jupyter nbconvert <file_name>.ipynb --to slides --post serve --template output_toggle
+
+This should open a tab in your web browser where you can scroll through your presentation. Sub-slides can be accessed by pressing 'down' 
+when viewing its parent slide. Make sure you remove all of the quote-formatted guide notes like this one before you finish your 
+presentation!
